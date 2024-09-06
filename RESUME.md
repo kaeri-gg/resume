@@ -1,4 +1,4 @@
-## Bitchiko Kodua - @n1md7 (Preferred name: Harry)
+## Harry Kodua - @n1md7 (Preferred name: Harry)
 
 E-mail: bikodua@gmail.com, @[Github](https://github.com/n1md7), @[Linkedin](https://www.linkedin.com/in/n1md7/), @[Stackoverflow](https://stackoverflow.com/users/8108312/n1md7);
 
