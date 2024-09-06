@@ -1,0 +1,25 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "My resume.md to pdf converter",
+  "main": "index.js",
+  "scripts": {
+    "generate": "npx md-to-pdf --pdf-options='{\"format\":\"Letter\",\"margin\":\"20mm\"}' ./RESUME.md",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n1md7/resume.git"
+  },
+  "keywords": [],
+  "author": "Harry Kodua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n1md7/resume/issues"
+  },
+  "homepage": "https://github.com/n1md7/resume#readme",
+  "devDependencies": {
+    "husky": "^7.0.4",
+    "md-to-pdf": "^5.1.0"
+  }
+}

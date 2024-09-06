@@ -1,0 +1,73 @@
+# This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+
+name: Node.js CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 16
+        cache: 'npm'
+    - name: Install Dependencies
+      run: npm ci
+    - name: Generate PDF from MarkDown
+      run: npm run generate
+    - name: Create public foler
+      run: mkdir public
+    - name: Copy resume file to public
+      run: cp ./RESUME.pdf ./public/RESUME.pdf
+    - name: Copy index.html file to public
+      run: cp ./index.html ./public/index.html
+    - name: Find and Replace version text in query string
+      run: sed -i'' -e "s/__VERSION__/$(date +'%m-%d-%Y')/g" ./public/index.html
+    - name: Archive generated file
+      uses: actions/upload-artifact@v2
+      with:
+        name: RESUME-latest.pdf
+        path: RESUME.pdf
+    - name: Init new repo in public folder and commit generated resume file
+      run: |
+          cd public
+          git init
+          git add -A
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git config --global init.defaultBranch master
+          git config --global --add safe.directory /github/workspace/public
+          chown -R $(id -u):$(id -g) $PWD
+          git commit -m 'deploy'
+    - name: Force push to destination branch
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: gh-pages
+        force: true
+        directory: ./public
+
+#   badge_job:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - id: date
+#         run: echo "##[set-output name=data;]$(date)"
+#       - name: Time badge
+#         uses: RubbaBoy/BYOB@v1.2.1
+#         with:
+#           NAME: time
+#           LABEL: 'Updated at'
+#           STATUS: ${{ steps.date.outputs.data }}
+#           COLOR: 00EEFF
+#           GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
+#           REPOSITORY: n1md7/resume
+#           ACTOR: n1md7
