@@ -15,4 +15,4 @@ Only thing you need to do is modifying `RESUME.md`. Everything else happens magi
 
 It will replace old RESUME.pdf with the new one. 
 
-There is a automated CI/CD which generates artifact automatically and downloadable content can be found under `Action`-s tab. Or even better - it's accesible via URL https://n1md7.github.io/resume/RESUME.pdf
+There is a automated CI/CD which generates artifact automatically and downloadable content can be found under `Action`-s tab. Or even better - it's accessible via URL https:// kaeri-gg.github.io/resume/RESUME.pdf
