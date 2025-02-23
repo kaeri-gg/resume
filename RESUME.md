@@ -26,7 +26,7 @@ with technology to build meaningful digital solutions.
 
 ### Open-source/Hobby projects
 - Collaborative project: An IoT device manager for home automation. @[IoT-Device-Manager](https://github.com/n1md7/IoT-Device-Manager)
-- Collaborative project: A 3D version of the game Quoridor. @[GG-Soft-Quoridor](https://github.com/n1md7/GG-Soft-Quoridor)
+- Collaborative project: A 3D version of the game Quoridor. @[GG-Soft-Quoridor](https://n1md7.github.io/GG-Soft-Quoridor/45-implement-game-logic/)
 - A simple number-guessing game with difficulty modes. @[guess-game](https://github.com/kaeri-gg/guess-game)
 - A game hub built while learning ReactJS, TypeScript, and Chakra UI. @[game-hub](https://github.com/kaeri-gg/game-hub)
 
