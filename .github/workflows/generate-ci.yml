@@ -33,7 +33,7 @@ jobs:
     - name: Find and Replace version text in query string
       run: sed -i'' -e "s/__VERSION__/$(date +'%m-%d-%Y')/g" ./public/index.html
     - name: Archive generated file
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: RESUME-latest.pdf
         path: RESUME.pdf
