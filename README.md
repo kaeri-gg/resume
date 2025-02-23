@@ -1,8 +1,8 @@
 ## My resume generator
 
-Github runner is autimatically runs pipeline which generates CV.
+GitHub runner is automatically runs pipeline which generates CV.
 
-Latest Resume is available [here](https://n1md7.github.io/resume)
+Latest Resume is available [here](https://kaeri-gg.github.io/resume)
 
 Only thing you need to do is modifying `RESUME.md`. Everything else happens magically :) 
 
