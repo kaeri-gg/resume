@@ -33,5 +33,5 @@ with technology to build meaningful digital solutions.
 
 ### Education
 - Full-stack Web Development – [Zuitt Coding Bootcamp](https://zuitt.co/), Short-course, 2019-2020
-- Specialist in Adobe Illustrator & InDesign (Multimedia) – [CIIT Philippines](https://www.ciit.edu.ph/), Short-course, 2015
+- Specialist in Adobe Illustrator & InDesign (Multimedia) – [CIIT College of Arts and Technology](https://www.ciit.edu.ph/), Short-course, 2015
 - Information Technology, BS – [STI College Global City](https://www.sti.edu/) 2010-2014
