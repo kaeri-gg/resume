@@ -44,7 +44,7 @@ with technology to build meaningful digital solutions.
 
 - **Web and Graphics Designer** @[Naotech Inc.](#not-available) - _03-2015/05-2018 (3 years, 3 months) - Makati, Philippines_: Designed and developed web interfaces for both internal and client projects. Translated designs into clean and efficient code while creating graphics for social media, advertisements, and marketing campaigns. Worked closely with teams to align branding with functionality. Utilized Framework7, jQuery, JavaScript, and CSS for development, alongside Adobe Photoshop and Illustrator for graphic design.
 
-- **Web and Graphic Artist** @[DSI Technology](http://dimensionsystems.com/gu/) - _09-2014/03-2015 (7 months) - BGC, Philippines_: Designed and implemented company websites using WordPress and Joomla, ensuring brand consistency and usability. Created graphics for email marketing campaigns, advertisements, and newsletters. Developed posters and other marketing materials using Adobe Photoshop, maintaining visual communication across digital and print media.
+- **Web and Graphic Designer** @[DSI Technology](http://dimensionsystems.com/gu/) - _09-2014/03-2015 (7 months) - BGC, Philippines_: Designed and implemented company websites using WordPress and Joomla, ensuring brand consistency and usability. Created graphics for email marketing campaigns, advertisements, and newsletters. Developed posters and other marketing materials using Adobe Photoshop, maintaining visual communication across digital and print media.
 
 
 ### Open-Source/Hobby projects
@@ -56,5 +56,5 @@ with technology to build meaningful digital solutions.
 
 ### Education
 - Full-stack Web Development – [Zuitt Coding Bootcamp](https://zuitt.co/), Short-course, 2019-2020
-- Specialist in Adobe Illustrator & InDesign (Multimedia) – [CIIT Philippines](https://www.ciit.edu.ph/), Short-course, 2015
+- Specialist in Adobe Illustrator & InDesign (Multimedia) – [CIIT College of Arts and Technology](https://www.ciit.edu.ph/), Short-course, 2015
 - Information Technology, BS – [STI College Global City](https://www.sti.edu/) 2010-2014
