@@ -7,27 +7,27 @@ body {
 }
 
 p, li, span {
-    font-size: 14px;
+    font-size: 13px;
     color: #4a4a4a;
 }
 
 h3 {
     margin: 5px 0;
-    color: #4f54f1;
+    color: #7174f3;
 }
 
 h2 {
     font-family: "Red Hat Display", serif;
     font-weight: 800;
     font-style: normal;
-    color: #4f54f1;
+    color: #7174f3;
     margin-bottom: 10px;
     font-size: 25px
 }
 
 a {
     text-decoration: none;
-    color: #4f54f1;
+    color: #7174f3;
     font-weight: 500;
 }
 
@@ -63,7 +63,7 @@ a:hover {
 .main-container {
     display: flex;
     justify-content: space-between;
-
+    margin-top: 0;
 }
 
 .main-right h2 {
