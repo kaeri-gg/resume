@@ -1,8 +1,31 @@
-## Kathleen Povadora - @kaeri-gg (Preferred name: Katie)
+<div class="main-container">
+  <div class="main-left"> 
+    <h2>Kathleen Povadora</h2>
+  </div> 
+ <div class="main-right">
+    <h2>@kaeri-gg (Preferred name: Katie)</h2>
+  </div>
+</div>
 
-E-mail: kathleenepovadora@gmail.com, @[GitHub](https://github.com/kaeri-gg), @[LinkedIn](https://www.linkedin.com/in/kathleenpovadora/), @[Behance](http://www.behance.net/kaeri-gg), @[GitLab](https://kathleenpovadora.gitlab.io/cv/)
+<div class="info-container">
+  <div class="info-left">
+    <ul>
+      <li><span>E-mail:</span> kathleenepovadora@gmail.com</li>
+      <li><span>Nationality:</span> Filipino; <span>Current location:</span> Philippines</li>
+    </ul>
+  </div>
+  <div class="info-right">
+    <ul>
+      <li><span>Website</span>: <a href="https://kaeri-gg.github.io/">https://kaeri-gg.github.io/</a></li>
+      <li><span>Other links</span>: 
+        <a href="https://github.com/kaeri-gg">@GitHub</a>, 
+        <a href="https://www.linkedin.com/in/kathleenpovadora/">@LinkedIn</a>, 
+        <a href="http://www.behance.net/kaeri-gg">@Behance</a>
+      </li>
+    </ul>
+  </div>
+</div>
 
-Nationality: Filipino; Current location: Philippines.
 
 ### Summary
 
@@ -24,7 +47,7 @@ with technology to build meaningful digital solutions.
 - **Web and Graphic Artist** @[DSI Technology](http://dimensionsystems.com/gu/) - _09-2014/03-2015 (7 months) - BGC, Philippines_: Designed and implemented company websites using WordPress and Joomla, ensuring brand consistency and usability. Created graphics for email marketing campaigns, advertisements, and newsletters. Developed posters and other marketing materials using Adobe Photoshop, maintaining visual communication across digital and print media.
 
 
-### Open-source/Hobby projects
+### Open-Source/Hobby projects
 - Collaborative project: An IoT device manager for home automation. @[IoT-Device-Manager](https://github.com/n1md7/IoT-Device-Manager)
 - Collaborative project: A 3D version of the game Quoridor. @[GG-Soft-Quoridor](https://n1md7.github.io/GG-Soft-Quoridor/45-implement-game-logic/)
 - A simple number-guessing game with difficulty modes. @[guess-game](https://github.com/kaeri-gg/guess-game)

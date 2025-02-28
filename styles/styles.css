@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+
+body {
+    font-family: "Tajawal", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p, li, span {
+    font-size: 14px;
+    color: #4a4a4a;
+}
+
+h3 {
+    margin: 5px 0;
+    color: #4f54f1;
+}
+
+h2 {
+    font-family: "Red Hat Display", serif;
+    font-weight: 800;
+    font-style: normal;
+    color: #4f54f1;
+    margin-bottom: 10px;
+    font-size: 25px
+}
+
+a {
+    text-decoration: none;
+    color: #4f54f1;
+    font-weight: 500;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: 500;
+}
+
+.info-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.info-left, .info-right {
+    width: 48%;
+}
+
+.info-left ul, .info-right ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.info-left li, .info-right li {
+    margin-bottom: 5px;
+}
+
+.info-left li span, .info-right li span {
+    font-weight: 500;
+}
+
+.main-container {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.main-right h2 {
+    font-weight: 400;
+}
