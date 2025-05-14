@@ -3,7 +3,7 @@
     <h2>Kathleen Povadora</h2>
   </div> 
  <div class="main-right">
-    <h2>@kaeri-gg (Preferred name: Katie)</h2>
+    <h2>@kaeri-gg (Preferred name: Kaeri)</h2>
   </div>
 </div>
 

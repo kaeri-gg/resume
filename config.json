@@ -1,0 +1,4 @@
+{
+  "pdf-options": "{\"format\":\"Letter\",\"margin\":\"20mm\"}",
+  "stylesheet": "styles/styles.css"
+}
