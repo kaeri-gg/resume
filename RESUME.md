@@ -3,7 +3,7 @@
     <h2>Kathleen Povadora</h2>
   </div> 
  <div class="main-right">
-    <h2>@kaeri-gg (Preferred name: Kaeri)</h2>
+    <h2>@kaeri-gg (Preferred name: Kath)</h2>
   </div>
 </div>
 
@@ -11,7 +11,7 @@
   <div class="info-left">
     <ul>
       <li><span>E-mail:</span> kathleenepovadora@gmail.com</li>
-      <li><span>Nationality:</span> Filipino; <span>Current location:</span> Philippines</li>
+      <li><span>Nationality:</span> Filipino; <span>Current location:</span> Tallinn, Estonia</li>
     </ul>
   </div>
   <div class="info-right">
@@ -29,16 +29,16 @@
 
 ### Summary
 
-Advanced App Engineering Specialist with 8+ years of experience in web and graphics design, now transitioning into front-end development.
-I have worked on web and mobile applications, focusing on creating user-friendly interfaces and visually appealing designs.
-Currently, I am learning ReactJS and TypeScript to improve my front-end development skills.
-I also plan to study animation and 3D technologies for game development, with the goal of creating interactive and
-engaging experiences in the future. Passionate about continuous learning, I enjoy finding new ways to blend creativity
-with technology to build meaningful digital solutions.
+Front-end Developer experienced in both web and graphic design, currently shifting my focus toward game development. 
+My work has spanned both web and mobile applications, where I’ve specialized in creating user-friendly interfaces and designs.
+
+I’m currently pursuing a Master’s degree in Digital Learning Games at Tallinn University to expand my knowledge in 
+game development and educational technology. Alongside my studies, I’m exploring game engines, Blender, 
+ReactJS and ThreeJS to build more interactive and immersive digital experiences.
 
 ### Experience
 
-- **Advanced App Engineering Specialist** @[Accenture](https://www.accenture.com/) - _06-2020/present (4 years, present) - Makati, Philippines_: Resolved critical production issues on AEM (Adobe Experience Manager) e-commerce sites impacting customer journey, sales, and frontend performance. Collaborated with L2 support and technical architects to develop workarounds and hotfixes. Utilized AEM, JavaScript, CSS, HTL templating, and AEM’s Java Content Repository (JCR) to implement solutions. Developed reusable and authorable web components, conducted thorough testing for code stability, and provided client demonstrations.
+- **Advanced App Engineering Specialist** @[Accenture](https://www.accenture.com/) - _06-2020/09-2025 (5 years) - Makati, Philippines_: Resolved critical production issues on AEM (Adobe Experience Manager) e-commerce sites impacting customer journey, sales, and frontend performance. Collaborated with L2 support and technical architects to develop workarounds and hotfixes. Utilized AEM, JavaScript, CSS, HTL templating, and AEM’s Java Content Repository (JCR) to implement solutions. Developed reusable and authorable web components, conducted thorough testing for code stability, and provided client demonstrations.
 
 - **Front-end Developer** @[Alprops Management Inc.](#not-available) - _06-2018/05-2020 (2 years) - Makati, Philippines_: Designed and developed user-friendly front-end experiences for websites, mobile app, and web applications. Created social media graphics, marketing materials, and instructional videos to support branding and user education. Used Framework7, jQuery, JavaScript, and CSS for development, along with Adobe Photoshop, Illustrator, and Sony Vegas Pro for design and video production.
 
@@ -55,6 +55,7 @@ with technology to build meaningful digital solutions.
 
 
 ### Education
+- MSc in Digital Learning Games – [Tallinn University](https://www.tlu.ee/en), Ongoing, 2025–present
 - Full-stack Web Development – [Zuitt Coding Bootcamp](https://zuitt.co/), Short-course, 2019-2020
 - Specialist in Adobe Illustrator & InDesign (Multimedia) – [CIIT College of Arts and Technology](https://www.ciit.edu.ph/), Short-course, 2015
 - Information Technology, BS – [STI College Global City](https://www.sti.edu/) 2010-2014
