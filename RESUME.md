@@ -34,7 +34,7 @@ My work has spanned both web and mobile applications, where I’ve specialized i
 
 I’m currently pursuing a Master’s degree in Digital Learning Games at Tallinn University to expand my knowledge in 
 game development and educational technology. Alongside my studies, I’m exploring game engines, Blender, 
-ReactJS and ThreeJS to build more interactive and immersive digital experiences.
+ReactJS and ThreeJS to build more interactive digital experiences.
 
 ### Experience
 
@@ -46,13 +46,11 @@ ReactJS and ThreeJS to build more interactive and immersive digital experiences.
 
 - **Web and Graphic Designer** @[DSI Technology](http://dimensionsystems.com/gu/) - _09-2014/03-2015 (7 months) - BGC, Philippines_: Designed and implemented company websites using WordPress and Joomla, ensuring brand consistency and usability. Created graphics for email marketing campaigns, advertisements, and newsletters. Developed posters and other marketing materials using Adobe Photoshop, maintaining visual communication across digital and print media.
 
-
 ### Open-Source/Hobby projects
 - Collaborative project: An IoT device manager for home automation. @[IoT-Device-Manager](https://github.com/n1md7/IoT-Device-Manager)
 - Collaborative project: A 3D version of the game Quoridor. @[GG-Soft-Quoridor](https://n1md7.github.io/GG-Soft-Quoridor/45-implement-game-logic/)
 - A simple number-guessing game with difficulty modes. @[guess-game](https://github.com/kaeri-gg/guess-game)
 - A game hub built while learning ReactJS, TypeScript, and Chakra UI. @[game-hub](https://github.com/kaeri-gg/game-hub)
-
 
 ### Education
 - MSc in Digital Learning Games – [Tallinn University](https://www.tlu.ee/en), Ongoing, 2025–present
