@@ -30,8 +30,7 @@
 ### Summary
 
 Front-end Developer experienced in both web and graphic design, currently shifting my focus toward game development. 
-My work has spanned both web and mobile applications, where I’ve specialized in creating user-friendly interfaces and designs.
-
+My work has spanned both web and mobile applications, where I’ve specialized in creating user-friendly interfaces and designs. 
 I’m currently pursuing a Master’s degree in Digital Learning Games at Tallinn University to expand my knowledge in 
 game development and educational technology. Alongside my studies, I’m exploring game engines, Blender, 
 ReactJS and ThreeJS to build more interactive digital experiences.
