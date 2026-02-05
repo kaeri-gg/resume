@@ -29,25 +29,25 @@
 
 ### Summary
 
-Front-end Developer experienced in both web and graphic design, where I’ve specialized in creating user-friendly interfaces and designs, currently shifting my focus toward game development.
-
-I’m currently pursuing a Master’s degree in Digital Learning Games at Tallinn University to expand my knowledge in game development and educational technology. Alongside my studies, I’m exploring game engines, Blender, ReactJS and ThreeJS to build more interactive digital experiences.
+Master’s student in Digital Learning Games at Tallinn University with experience building user-facing web interfaces using JavaScript and other web technologies. Interested in user-facing web development roles, with ongoing exploration of game engines, Blender, React, and Three.js alongside academic studies.
 
 ### Experience
 
-- **Advanced App Engineering Specialist** @[Accenture](https://www.accenture.com/) - _06-2020/09-2025 (5 years) - Makati, Philippines_: Resolved critical production issues on AEM (Adobe Experience Manager) e-commerce sites impacting customer journey, sales, and frontend performance. Collaborated with L2 support and technical architects to develop workarounds and hotfixes. Utilized AEM, JavaScript, CSS, HTL templating, and AEM’s Java Content Repository (JCR) to implement solutions. Developed reusable and authorable web components, conducted thorough testing for code stability, and provided client demonstrations.
+- **Advanced App Engineering Specialist** @[Accenture](https://www.accenture.com/) - _06-2020/09-2025 (5 years) - Makati, Philippines_: Resolved critical production issues on AEM (Adobe Experience Manager) e-commerce sites impacting customer journey, sales, and frontend performance. Collaborated with L2 support and technical architects to develop workarounds and hotfixes. Utilized AEM, JavaScript, CSS, HTL templating, and AEM’s Java Content Repository (JCR) to implement solutions. Developed reusable and authorable web components, conducted thorough testing, and provided client demonstrations.
 
-- **Front-end Developer** @[Alprops Management Inc.](#not-available) - _06-2018/05-2020 (2 years) - Makati, Philippines_: Designed and developed user-friendly front-end experiences for websites, mobile app, and web applications. Created social media graphics, marketing materials, and instructional videos to support branding and user education. Used Framework7, jQuery, JavaScript, and CSS for development, along with Adobe Photoshop, Illustrator, and Sony Vegas Pro for design and video production.
+- **Front-end Developer** @[Alprops Management Inc.](#not-available) - _06-2018/05-2020 (2 years) - Makati, Philippines_: Designed and developed user-friendly front-end experiences for websites, a mobile app, and web applications. Created social media graphics, marketing materials, and instructional videos to support company's branding. Used Framework7, jQuery, JavaScript, and CSS for development, along with Adobe Photoshop, Illustrator, and Sony Vegas Pro for design and video production.
 
-- **Web and Graphics Designer** @[Naotech Inc.](#not-available) - _03-2015/05-2018 (3 years, 3 months) - Makati, Philippines_: Designed and developed web interfaces for both internal and client projects. Translated designs into clean and efficient code while creating graphics for social media, advertisements, and marketing campaigns. Worked closely with teams to align branding with functionality. Utilized Framework7, jQuery, JavaScript, and CSS for development, alongside Adobe Photoshop and Illustrator for graphic design.
+- **Web and Graphics Designer** @[Naotech Inc.](#not-available) - _03-2015/05-2018 (3 years, 3 months) - Makati, Philippines_: Designed and developed web interfaces for both internal and client projects. Designed graphics for social media, advertisements, and marketing campaigns. Worked closely with teams to align branding. Utilized Framework7, jQuery, JavaScript, and CSS for development, alongside Adobe Photoshop and Illustrator for graphic design.
 
-- **Web and Graphic Designer** @[DSI Technology](http://dimensionsystems.com/gu/) - _09-2014/03-2015 (7 months) - BGC, Philippines_: Designed and implemented company websites using WordPress and Joomla, ensuring brand consistency and usability. Created graphics for email marketing campaigns, advertisements, and newsletters. Developed posters and other marketing materials using Adobe Photoshop, maintaining visual communication across digital and print media.
+- **Web and Graphic Designer** @[DSI Technology](http://dimensionsystems.com/gu/) - _09-2014/03-2015 (7 months) - BGC, Philippines_: Designed and implemented company websites using WordPress and Joomla. Created graphics for email marketing campaigns, advertisements, and newsletters. Developed posters and other marketing materials using Adobe Photoshop.
 
 ### Open-Source/Hobby projects
-- Collaborative project: An IoT device manager for home automation. @[IoT-Device-Manager](https://github.com/n1md7/IoT-Device-Manager)
-- Collaborative project: A 3D version of the game Quoridor. @[GG-Soft-Quoridor](https://n1md7.github.io/GG-Soft-Quoridor/45-implement-game-logic/)
+- Collaborative project: An IoT device manager for home automation. (WIP) @[IoT-device-manager](https://github.com/n1md7/IoT-Device-Manager)
+- Collaborative project: A 3D version of the game Quoridor. (WIP) @[GG-Soft-Quoridor](https://n1md7.github.io/GG-Soft-Quoridor/45-implement-game-logic/)
+- A serious game for a Game Development course. (WIP) @[decision-fatigue](https://kaeri-gg.github.io/decision-fatigue/release/)
 - A simple number-guessing game with difficulty modes. @[guess-game](https://github.com/kaeri-gg/guess-game)
-- A game hub built while learning ReactJS, TypeScript, and Chakra UI. @[game-hub](https://github.com/kaeri-gg/game-hub)
+- Online tic-tac-toe using Godot game engine @[tic-tac-toe](https://kaeri-gg.github.io/tic-tac-toe/release/)
+- Online pong game using Godot game engine @[pong-game](https://kaeri-gg.github.io/pong-game/release/)
 
 ### Education
 - MSc in Digital Learning Games – [Tallinn University](https://www.tlu.ee/en), Ongoing, 2025–present
